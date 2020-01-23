@@ -1,2 +1,2 @@
 # My-computer
-School pproject folder
+School project folder
